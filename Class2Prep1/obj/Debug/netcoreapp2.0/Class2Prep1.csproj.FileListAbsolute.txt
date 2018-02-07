@@ -1,0 +1,11 @@
+C:\Users\Ed\Documents\lc101\Unit-3\Class2Prep1\Class2Prep1\bin\Debug\netcoreapp2.0\Class2Prep1.deps.json
+C:\Users\Ed\Documents\lc101\Unit-3\Class2Prep1\Class2Prep1\bin\Debug\netcoreapp2.0\Class2Prep1.runtimeconfig.json
+C:\Users\Ed\Documents\lc101\Unit-3\Class2Prep1\Class2Prep1\bin\Debug\netcoreapp2.0\Class2Prep1.runtimeconfig.dev.json
+C:\Users\Ed\Documents\lc101\Unit-3\Class2Prep1\Class2Prep1\bin\Debug\netcoreapp2.0\Class2Prep1.dll
+C:\Users\Ed\Documents\lc101\Unit-3\Class2Prep1\Class2Prep1\bin\Debug\netcoreapp2.0\Class2Prep1.pdb
+C:\Users\Ed\Documents\lc101\Unit-3\Class2Prep1\Class2Prep1\obj\Debug\netcoreapp2.0\Class2Prep1.csprojResolveAssemblyReference.cache
+C:\Users\Ed\Documents\lc101\Unit-3\Class2Prep1\Class2Prep1\obj\Debug\netcoreapp2.0\Class2Prep1.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Documents\lc101\Unit-3\Class2Prep1\Class2Prep1\obj\Debug\netcoreapp2.0\Class2Prep1.AssemblyInfoInputs.cache
+C:\Users\Ed\Documents\lc101\Unit-3\Class2Prep1\Class2Prep1\obj\Debug\netcoreapp2.0\Class2Prep1.AssemblyInfo.cs
+C:\Users\Ed\Documents\lc101\Unit-3\Class2Prep1\Class2Prep1\obj\Debug\netcoreapp2.0\Class2Prep1.dll
+C:\Users\Ed\Documents\lc101\Unit-3\Class2Prep1\Class2Prep1\obj\Debug\netcoreapp2.0\Class2Prep1.pdb
