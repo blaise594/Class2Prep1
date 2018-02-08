@@ -21,18 +21,18 @@ namespace Class2Prep1
                 18,
                 20
             };
-
+            
             int[] intArray = intList.ToArray();
+            Add(intArray);
 
-
+        }
+       public static void Add(int[] intArray)
+       {          
             int sum = 0;
             Array.ForEach(intArray, delegate (int i) { sum += i; });
             Console.WriteLine(sum);
             Console.ReadLine();
-
-
-        }
-       
+       }
 
     }
 }
